@@ -1,6 +1,6 @@
 ### Wassup. :four_leaf_clover: You just found [Kiyo5hi](https://k1yoshi.com/)!
 
-#### About me
+#### About Me
 
 - I am a computer science major :computer: that loves **web design** and **machine learning**.
 - Currently attending [UC San Diego, Jacobs School of Engineering](https://jacobsschool.ucsd.edu/).
