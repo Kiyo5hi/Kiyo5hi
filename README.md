@@ -7,4 +7,4 @@
 - Loves math and physics but not good at neither.
 - Visit [Kiyoshi's blog](https://blog.k1yoshi.com) sometimes maybe?
 
-[![Kiyoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiyo5hi)](https://github.com/anuraghazra/github-readme-stats)
+[![Kiyoshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiyo5hi&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
